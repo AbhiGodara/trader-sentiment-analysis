@@ -1,9 +1,3 @@
-# Links
-GITHUB_REPO = "https://github.com/AbhiGodara/trader-sentiment-analysis"
-COLAB_NOTEBOOK_1 = "https://colab.research.google.com/drive/1ArNiVJeJX4sux3gndvxBJzxigedyUQji?usp=sharing"
-COLAB_NOTEBOOK_2 = "https://colab.research.google.com/drive/1pOTXgfEVvDSy7-dkyBaFlLeu7i9QXcVK?usp=sharing"
-GOOGLE_DRIVE_FOLDER = "https://drive.google.com/drive/folders/1-uttSCCqtXZvenXDC3CzwiUT47cmUT9u?usp=sharing"
-
 ## 📋 Project Overview
 
 This project analyzes the relationship between cryptocurrency trader behavior and market sentiment using:
@@ -134,22 +128,18 @@ jupyter notebook
 - All pre-installed in Google Colab
 
 ---
-GITHUB_REPO = "https://github.com/AbhiGodara/trader-sentiment-analysis"
-COLAB_NOTEBOOK_1 = "https://colab.research.google.com/drive/1ArNiVJeJX4sux3gndvxBJzxigedyUQji?usp=sharing"
-COLAB_NOTEBOOK_2 = "https://colab.research.google.com/drive/1pOTXgfEVvDSy7-dkyBaFlLeu7i9QXcVK?usp=sharing"
-GOOGLE_DRIVE_FOLDER = "https://drive.google.com/drive/folders/1-uttSCCqtXZvenXDC3CzwiUT47cmUT9u?usp=sharing"
 
 ## 🔗 Important Links
 
 ### 📂 GitHub Repository
-**Code & Documentation:** [{GITHUB_REPO}]({[GITHUB_REPO](https://github.com/AbhiGodara/trader-sentiment-analysis)})
+**Code & Documentation:** [GITHUB_REPO](https://github.com/AbhiGodara/trader-sentiment-analysis)
 
 ### 📓 Google Colab Notebooks
-- **Notebook 1 (Main Analysis):** [{COLAB_NOTEBOOK_1}]({[COLAB_NOTEBOOK_1](https://colab.research.google.com/drive/1ArNiVJeJX4sux3gndvxBJzxigedyUQji?usp=sharing)})
-- **Notebook 2 (Advanced Analysis):** [{COLAB_NOTEBOOK_2}]({[COLAB_NOTEBOOK_2](https://colab.research.google.com/drive/1pOTXgfEVvDSy7-dkyBaFlLeu7i9QXcVK?usp=sharing)})
+- **Notebook 1 (Main Analysis):** [COLAB_NOTEBOOK_1](https://colab.research.google.com/drive/1ArNiVJeJX4sux3gndvxBJzxigedyUQji?usp=sharing)
+- **Notebook 2 (Advanced Analysis):** [COLAB_NOTEBOOK_2](https://colab.research.google.com/drive/1pOTXgfEVvDSy7-dkyBaFlLeu7i9QXcVK?usp=sharing)
 
 ### 💾 Google Drive (Data Files)
-**Complete Dataset & CSV Files:** [{GOOGLE_DRIVE_FOLDER}]({https://drive.google.com/drive/folders/1-uttSCCqtXZvenXDC3CzwiUT47cmUT9u?usp=sharing})
+**Complete Dataset & CSV Files:** [GOOGLE_DRIVE_FOLDER](https://drive.google.com/drive/folders/1-uttSCCqtXZvenXDC3CzwiUT47cmUT9u?usp=sharing)
 
 Includes:
 - Original datasets (Fear & Greed Index + Trading Data)
@@ -265,10 +255,3 @@ This focused timeframe is actually beneficial as it provides:
 - Actionable insights for current trading
 
 ---
-
-# Display preview
-print("\n" + "=" * 80)
-print("PREVIEW OF README.md:")
-print("=" * 80)
-print(readme_content[:1500] + "\n...\n[Content truncated for preview]")
-print("=" * 80)
